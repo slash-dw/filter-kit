@@ -5,7 +5,7 @@
   "license": "MIT",
   "require": {
     "php": "^8.5",
-    "slash-dw/core-kit": "^0.0.1",
+    "slash-dw/core-kit": "^0.0.2",
     "illuminate/contracts": "^13.0",
     "illuminate/database": "^13.0",
     "illuminate/http": "^13.0",

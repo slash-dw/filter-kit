@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2ec814c89c16c283852d629d502f5f8d",
+    "content-hash": "266aff97a32f010132d6443c0e31dbc7",
     "packages": [
         {
             "name": "brick/math",
@@ -3095,16 +3095,16 @@
         },
         {
             "name": "slash-dw/core-kit",
-            "version": "v0.0.1",
+            "version": "v0.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/slash-dw/core-kit.git",
-                "reference": "0edafb95978719d1416cd366722971a962f15591"
+                "reference": "ccfaea879d5ef52f7231b5ad6a8c4e86150fc652"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/slash-dw/core-kit/zipball/0edafb95978719d1416cd366722971a962f15591",
-                "reference": "0edafb95978719d1416cd366722971a962f15591",
+                "url": "https://api.github.com/repos/slash-dw/core-kit/zipball/ccfaea879d5ef52f7231b5ad6a8c4e86150fc652",
+                "reference": "ccfaea879d5ef52f7231b5ad6a8c4e86150fc652",
                 "shasum": ""
             },
             "require": {
@@ -3140,9 +3140,9 @@
             "description": "SlashDw shared core kit for Laravel projects",
             "support": {
                 "issues": "https://github.com/slash-dw/core-kit/issues",
-                "source": "https://github.com/slash-dw/core-kit/tree/v0.0.1"
+                "source": "https://github.com/slash-dw/core-kit/tree/v0.0.2"
             },
-            "time": "2026-04-28T16:58:17+00:00"
+            "time": "2026-04-29T14:50:47+00:00"
         },
         {
             "name": "symfony/clock",
